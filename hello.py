@@ -1,3 +1,4 @@
 # My First Hello World program
-print("Hello, Seth!")
+print("Hello, Lindsey!")
 print("Hello, Class!")
+print("Hello, OC!")
